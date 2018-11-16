@@ -10,7 +10,7 @@ Router of Thing 物联网关设备
 
 ### 简介
 
-通过WIFI无线通信，实现对所有子系统的连接整合
+通过WIFI无线通信，实现对所有子系统的连接整合，同时实现通信的全面覆盖
 
 ---
 
@@ -28,6 +28,11 @@ liblwip_open_napt.a 库文件
 
 WPA2-PEAP to WPA2-PSK converter
 
+#### NaCl
+
+NaCl crypto lib for the ESP8266
+
+For documentation of the API see: https://nacl.cr.yp.to/
 
 ---
 
