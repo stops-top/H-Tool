@@ -34,6 +34,15 @@ NaCl crypto lib for the ESP8266
 
 For documentation of the API see: https://nacl.cr.yp.to/
 
+
+#### uMQTT
+
+MQTT Broker library for ESP8266 Arduino
+
+#### SLIP
+
+Serial Line IP
+
 ---
 
 ##  www.litelife.cc   |   qitas@qitas.cn
