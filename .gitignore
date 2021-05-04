@@ -18,8 +18,8 @@ CHANGELOG
 README
 *.jpg
 *.html
-COPY*
 docs
+doc
 Doc
 FILES
 FEATURES
@@ -30,7 +30,7 @@ FEATURES
 *.ko
 *.obj
 *.elf
-
+*.bin
 # Linker output
 *.ilk
 *.map
