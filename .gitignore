@@ -35,13 +35,13 @@ FEATURES
 # Precompiled Headers
 *.gch
 *.pch
-
+*.icf
 # Libraries
 *.lib
 *.a
 *.la
 *.lo
-
+*html
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
