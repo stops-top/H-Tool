@@ -9,14 +9,11 @@ __pycache__
 LICENSE*
 *.png
 *.jpg
-examples/**/*.yml
-examples/**/*.md
 **/CONTR*
 **/CHANGE*
 CHANGELOG
 .gitmodules
 README
-*.jpg
 *.html
 docs
 doc
@@ -35,7 +32,6 @@ FEATURES
 *.ilk
 *.map
 *.exp
-*.txt
 # Precompiled Headers
 *.gch
 *.pch
@@ -92,7 +88,6 @@ dkms.conf
 **/**/[Dd]ebug[Cc]onfig/*
 **/**/[Dd]ebug/*
 **/**/[Ff]lash/*
-**/**/[Ss]ettings/*
 
 # 忽略Vnote 生成的 交换文件
 *.[Vv][Ss][Ww][Pp]
