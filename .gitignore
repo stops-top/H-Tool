@@ -22,6 +22,14 @@ FILES
 FEATURES
 *readme.txt
 *history.txt
+*.uvgui*
+*.uvopt*
+EWARMv8
+*.scvd
+*_sc*
+*_cm3*
+*_cm0*
+*_cm4*
 # Object files
 *.o
 *.ko
