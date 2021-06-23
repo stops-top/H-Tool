@@ -26,6 +26,8 @@ FEATURES
 *.uvopt*
 EWARMv8
 *.scvd
+*.sct
+*.icf
 # *_sc*
 *_cm3*
 *_cm0*
