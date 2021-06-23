@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/12/26 10:01:18.000.955,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\CXE7\VictorComm.groupproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2016/02/20 09:30:03.000.852,D:\VICTOR\VictorCommVCL\VictorComm\Source\CXE7\VictorComm.groupproj=D:\VICTOR\VictorCommVCL\VictorComm\Source\CXE7\VictorCommXE7_All.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="J:\MyData\01.产品资料\00.PC-MODBUS软件等\15.ADS1256模块PC软件\ADS1256控制PC软件\VictorComm\Source\CXE7\VictorCommXE7.cbproj"/>
+	</Default.Personality>
+</BorlandProject>

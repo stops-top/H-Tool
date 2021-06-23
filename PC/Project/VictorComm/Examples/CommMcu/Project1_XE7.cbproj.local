@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/02/20 10:46:55.000.619,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/02/20 10:46:55.000.587,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/02/20 10:47:13.000.816,D:\VICTOR\Unit1.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/02/20 10:47:13.000.816,D:\VICTOR\Unit1.cpp=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/02/20 10:47:13.000.816,D:\VICTOR\Unit1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2016/02/20 10:47:17.000.602,D:\VICTOR\Project1PCH1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/02/20 10:47:18.000.946,D:\VICTOR\Project1.cbproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2016/02/20 10:48:28.000.781,D:\VICTOR\VictorCommVCL\VictorComm\Examples\CommMcu\Project1PCH1.h=D:\VICTOR\VictorCommVCL\VictorComm\Examples\CommMcu\Project1_XE7PCH1.h</Transaction>
+    <Transaction>2016/02/20 10:48:28.000.808,D:\VICTOR\VictorCommVCL\VictorComm\Examples\CommMcu\Project1.cbproj=D:\VICTOR\VictorCommVCL\VictorComm\Examples\CommMcu\Project1_XE7.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

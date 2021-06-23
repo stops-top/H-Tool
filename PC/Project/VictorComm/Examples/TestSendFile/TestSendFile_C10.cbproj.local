@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/02/20 20:54:45.000.927,=C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/02/20 20:54:46.000.050,=C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/02/20 20:55:36.000.009,C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\TEMP\TestC10\Unit1.h</Transaction>
+    <Transaction>2016/02/20 20:55:36.000.009,C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\TEMP\TestC10\Unit1.cpp</Transaction>
+    <Transaction>2016/02/20 20:55:36.000.009,C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\TEMP\TestC10\Unit1.dfm</Transaction>
+    <Transaction>2016/02/20 20:55:58.000.934,C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\TEMP\TestC10\Project1_C10PCH1.h</Transaction>
+    <Transaction>2016/02/20 20:56:02.000.214,C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\TEMP\TestC10\Project1_C10.cbproj</Transaction>
+    <Transaction>2016/02/20 22:24:49.000.004,=D:\VICTOR\VictorCommVCL\VictorComm\Examples\TestSendFile\UnitSendFile.cpp</Transaction>
+    <Transaction>2016/02/20 22:24:55.000.294,=D:\VICTOR\VictorCommVCL\VictorComm\Examples\TestSendFile\UnitTsData.cpp</Transaction>
+    <Transaction>2016/02/20 22:25:19.000.672,D:\VICTOR\VictorCommVCL\VictorComm\Examples\TestSendFile\TestSendFile_C10.cbproj=D:\VICTOR\VictorCommVCL\VictorComm\Examples\TestSendFile\Project1_C10.cbproj</Transaction>
+    <Transaction>2016/02/20 22:25:19.000.602,D:\VICTOR\VictorCommVCL\VictorComm\Examples\TestSendFile\TestSendFile_C10PCH1.h=D:\VICTOR\VictorCommVCL\VictorComm\Examples\TestSendFile\Project1_C10PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

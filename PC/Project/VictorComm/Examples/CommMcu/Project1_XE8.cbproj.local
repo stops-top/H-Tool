@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/02/19 13:34:44.000.740,=C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/02/19 13:34:44.000.709,=C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/02/19 13:35:42.000.289,C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project1_XE8PCH1.h</Transaction>
+    <Transaction>2016/02/19 13:35:48.000.123,C:\Users\Victor Chen\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project_XE8.cbproj</Transaction>
+    <Transaction>2016/02/19 13:35:57.000.987,D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project_XE8.cbproj=D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project1_XE8.cbproj</Transaction>
+    <Transaction>2016/02/19 13:36:02.000.451,D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project1_XE8PCH1.h=D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project11_XE8PCH1.h</Transaction>
+    <Transaction>2016/02/19 13:36:02.000.467,D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project1_XE8.cbproj=D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project11_XE8.cbproj</Transaction>
+    <Transaction>2016/02/19 13:36:06.000.768,D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project11_XE8PCH1.h=D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project1_XE8PCH1.h</Transaction>
+    <Transaction>2016/02/19 13:36:06.000.787,D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project11_XE8.cbproj=D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Project1_XE8.cbproj</Transaction>
+    <Transaction>2016/02/19 13:36:28.000.666,=D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Unit1.cpp</Transaction>
+    <Transaction>2016/02/19 13:36:31.000.553,D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Unit1.cpp=</Transaction>
+    <Transaction>2016/02/19 13:38:30.000.160,=D:\VICTOR\CB\VictorVCL20\VictorComm\Examples\CommMcu\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

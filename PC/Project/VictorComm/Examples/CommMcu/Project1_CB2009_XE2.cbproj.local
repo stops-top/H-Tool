@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014-02-05 20:17:38.718.cbproj,d:\VICTOR\VictorComm\Examples\CommMcu\Project1.cbproj=d:\VICTOR\VictorComm\Examples\CommMcu\Project1_CB2010_2009.cbproj</Transaction>
+    <Transaction>2014-02-05 20:21:01.406.cbproj,d:\VICTOR\VictorComm\Examples\CommMcu\Project1_CB2010_2009.cbproj=d:\VICTOR\VictorComm\Examples\CommMcu\Project1_CB2009_XE2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

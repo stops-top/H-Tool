@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{62AAEBC3-3540-408A-BBA1-5520763C3CD9}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="VictorCommXE7.cbproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="VictorCommXE7_Design.cbproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="VictorCommXE7">
+        <MSBuild Projects="VictorCommXE7.cbproj"/>
+    </Target>
+    <Target Name="VictorCommXE7:Clean">
+        <MSBuild Projects="VictorCommXE7.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="VictorCommXE7:Make">
+        <MSBuild Projects="VictorCommXE7.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="VictorCommXE7_Design">
+        <MSBuild Projects="VictorCommXE7_Design.cbproj"/>
+    </Target>
+    <Target Name="VictorCommXE7_Design:Clean">
+        <MSBuild Projects="VictorCommXE7_Design.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="VictorCommXE7_Design:Make">
+        <MSBuild Projects="VictorCommXE7_Design.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="VictorCommXE7;VictorCommXE7_Design"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="VictorCommXE7:Clean;VictorCommXE7_Design:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="VictorCommXE7:Make;VictorCommXE7_Design:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

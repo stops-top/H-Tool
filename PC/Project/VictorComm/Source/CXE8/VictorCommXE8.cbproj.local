@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/12/26 09:55:54.000.780,=rtl.bpi</Transaction>
+    <Transaction>2014/12/26 09:55:54.000.811,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 09:56:54.000.563,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 09:56:54.000.563,=rtl.bpi</Transaction>
+    <Transaction>2014/12/26 09:57:07.000.480,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 09:57:07.000.480,=rtl.bpi</Transaction>
+    <Transaction>2014/12/26 09:57:16.000.341,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 09:57:16.000.326,=rtl.bpi</Transaction>
+    <Transaction>2014/12/26 09:58:16.000.074,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\CXE7\VictorComm64_PCH1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 09:58:44.000.668,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\CXE7\VictorComm64.cbproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1.cbproj</Transaction>
+    <Transaction>2014/12/26 10:27:28.000.281,=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\TVictorComm32.cpp</Transaction>
+    <Transaction>2014/12/26 10:27:28.000.297,=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\TVictorCommPkg.cpp</Transaction>
+    <Transaction>2014/12/26 10:27:28.000.297,=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\TVictorComm64.cpp</Transaction>
+    <Transaction>2014/12/26 10:27:28.000.313,=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\YbCommDevice.cpp</Transaction>
+    <Transaction>2014/12/26 10:33:01.000.638,=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YbCommDevice_Settings.cpp</Transaction>
+    <Transaction>2014/12/26 10:33:41.000.287,=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm64_About.cpp</Transaction>
+    <Transaction>2015/07/09 16:49:32.000.354,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\CXE8\VictorCommXE8.cbproj=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\CXE8\VictorComm64.cbproj</Transaction>
+    <Transaction>2015/07/09 16:52:07.000.521,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\CXE8\VictorCommXE8_PCH1.h=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\CXE8\VictorComm64_PCH1.h</Transaction>
+    <Transaction>2015/07/10 08:52:21.000.989,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\TVictorComm.cpp=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\TVictorComm64.cpp</Transaction>
+    <Transaction>2015/07/10 08:52:21.000.989,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\TVictorComm.h=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\TVictorComm64.h</Transaction>
+    <Transaction>2015/07/10 08:52:33.000.979,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm_About.cpp=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm64_About.cpp</Transaction>
+    <Transaction>2015/07/10 08:52:33.000.979,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm_About.dfm=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm64_About.dfm</Transaction>
+    <Transaction>2015/07/10 08:52:33.000.979,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm_About.h=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm64_About.h</Transaction>
+    <Transaction>2015/07/10 08:53:00.000.009,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBCommDevice_About.cpp=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm_About.cpp</Transaction>
+    <Transaction>2015/07/10 08:53:00.000.009,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBCommDevice_About.dfm=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm_About.dfm</Transaction>
+    <Transaction>2015/07/10 08:53:00.000.009,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBCommDevice_About.h=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\Unit_YBComm_About.h</Transaction>
+  </Transactions>
+</BorlandProject>

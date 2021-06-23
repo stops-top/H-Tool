@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/02/06 09:12:15.000.988,=C:\Users\Administrator\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/02/06 09:12:16.000.023,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/02/06 09:12:26.000.541,D:\VICTOR\Test1\Unit1.cpp=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/02/06 09:12:26.000.541,D:\VICTOR\Test1\Unit1.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014/02/06 09:12:26.000.541,D:\VICTOR\Test1\Unit1.h=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2014/02/06 09:12:42.000.204,D:\VICTOR\Test1\Project1PCH1.h=C:\Users\Administrator\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/02/06 09:13:21.000.105,D:\VICTOR\Test1\Project1_XE3_XE5PCH1.h=D:\VICTOR\Test1\Project1PCH1.h</Transaction>
+    <Transaction>2014/02/06 09:13:21.000.137,D:\VICTOR\Test1\Project1_XE3_XE5.cbproj=C:\Users\Administrator\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

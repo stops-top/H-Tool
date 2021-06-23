@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package schemaVersion="1.2" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="PACK.xsd">
+    <vendor>MindMotion</vendor>
+    <url>http://www.mindmotion.com.cn/Download/MDK_KEIL/</url>    
+    <name>MM32F0010_DFP</name>
+    <description>MindMotion Cortex-Mx Series Device Family Pack</description>
+    <!-- optional license file -->
+    <!-- 
+  <license>
+  </license>
+  -->
+
+    <releases>
+        <release version="1.0.2">
+            Initial Version
+        </release>
+    </releases>
+
+    <keywords>
+        <!-- keywords for indexing -->
+        <keyword>MindMotion</keyword>
+        <keyword>MM32</keyword>
+    </keywords>
+
+    <!-- devices section (mandatory for Device Family Packs) -->
+    <devices>
+        <family Dfamily="MM32F0010 Series" Dvendor="MindMotion:132">
+            <description>
+            MM32F0010 - ARM Cortex-M Series Core
+            </description>
+     <!-- ************************  Subfamily 'MM32M0xx Series'  **************************** -->
+      <subFamily DsubFamily="MM32F0010">
+        <processor Dcore="Cortex-M0" DcoreVersion="r1p0" Dfpu="0" Dmpu = "0" Dendian="Little-endian" /> 
+            <description>
+            MM32F0010 - ARM Cortex-M0
+            </description>
+            <device Dname="MM32F0010A1T">
+                <description>
+                MM32F0010A1T - ARM Cortex-M0 Core TSSOP20
+                </description>
+                <processor Dfpu="0" Dmpu="0" Dendian="Little-endian" Dclock="48000000" />
+                <debug svd="SVD/MM32F0010.svd" />
+                <memory id="IROM1" start="0x08000000" size="0x00004000" startup="1" default="1" />
+                <memory id="IRAM1" start="0x20000000" size="0x00000800" init="0" default="1" />
+                <algorithm name="Flash/MM32F0010_16.FLM" start="0x08000000" size="0x00004000" default="1" />                
+            </device>
+            <device Dname="MM32F0010A1N">
+                <description>
+                MM32F0010A1N - ARM Cortex-M0 Core QFN20
+                </description>
+                <processor Dfpu="0" Dmpu="0" Dendian="Little-endian" Dclock="48000000" />
+                <debug svd="SVD/MM32F0010.svd" />
+                <memory id="IROM1" start="0x08000000" size="0x00004000" startup="1" default="1" />
+                <memory id="IRAM1" start="0x20000000" size="0x00000800" init="0" default="1" />
+                <algorithm name="Flash/MM32F0010_16.FLM" start="0x08000000" size="0x00004000" default="1" />                
+            </device>
+
+     </subFamily>
+
+
+
+    </family>
+
+    </devices>
+
+</package>

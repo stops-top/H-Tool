@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/12/26 09:55:54.000.811,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 09:55:54.000.780,=rtl.bpi</Transaction>
+    <Transaction>2014/12/26 09:56:54.000.563,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 09:56:54.000.563,=rtl.bpi</Transaction>
+    <Transaction>2014/12/26 09:57:07.000.480,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 09:57:07.000.480,=rtl.bpi</Transaction>
+    <Transaction>2014/12/26 09:59:38.000.119,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 09:59:38.000.119,=rtl.bpi</Transaction>
+    <Transaction>2014/12/26 10:00:34.000.089,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\CXE7\VictorComm64_Design_PCH1.h=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1PCH1.h</Transaction>
+    <Transaction>2014/12/26 10:00:55.000.711,D:\VICTOR\CB\VictorVCL20\VictorComm\Source\CXE7\VictorComm64_Design.cbproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1.cbproj</Transaction>
+    <Transaction>2014/12/26 10:41:34.000.685,=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\YbCommDesignEditors.cpp</Transaction>
+    <Transaction>2014/12/26 11:54:02.000.420,=D:\VICTOR\CB\VictorVCL20\VictorComm\Source\Source\VictorCommDesign_res.rc</Transaction>
+    <Transaction>2016/02/20 09:31:01.000.620,D:\VICTOR\VictorCommVCL\VictorComm\Source\CXE7\VictorCommXE7_Design.cbproj=D:\VICTOR\VictorCommVCL\VictorComm\Source\CXE7\VictorComm64_Design.cbproj</Transaction>
+    <Transaction>2016/02/20 10:30:59.000.854,D:\VICTOR\VictorCommVCL\VictorComm\Source\CXE7\VictorComm64_Design_PCH1.h=D:\VICTOR\VictorCommVCL\VictorComm\Source\CXE7\VictorCommXE7_DesignPCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

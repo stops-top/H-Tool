@@ -12,9 +12,12 @@ LICENSE*
 **/CONTR*
 **/CHANGE*
 CHANGELOG
+__history
 .gitmodules
 README
 *.html
+*.exe
+*.#*
 docs
 doc
 Doc
@@ -29,6 +32,7 @@ EWARMv8
 *.sct
 *.icf
 *.gif
+*.log
 # *_sc*
 *_cm3*
 *_cm0*
